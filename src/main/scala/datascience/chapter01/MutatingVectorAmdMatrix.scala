@@ -1,4 +1,4 @@
-package chapter01
+package datascience.chapter01
 
 import breeze.linalg.DenseVector
 
